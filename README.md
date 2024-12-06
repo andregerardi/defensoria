@@ -1,5 +1,7 @@
 # Pesquisa Defensoria
 
+<b>- Obs.: não foi possível inserir a base de dados principal no repositório dado que excece o tamanho máximo. Envie e-mais para "andregerardi3@gmail.com" que compartilho o arquivo.<b>
+
 Este repositório contém o código-fonte, modelos e dados relacionados à pesquisa sobre o fluxo da justiça criminal, integrando as bases de dados do MP-SP, TJ-SP, SSP-SP, Defensoria, e dados do Censo 2022. O objetivo da pesquisa é analisar o fluxo de informações no sistema de justiça criminal e fornecer insights baseados em dados.
 
 ## Produtos da Pesquisa
